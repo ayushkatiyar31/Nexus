@@ -1,17 +1,18 @@
-<!doctype html>
+<!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="utf-8" />
-  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>Tic Tac Toe</title>
   <link rel="stylesheet" href="style.css">
 </head>
 <body>
   <main class="app" role="application" aria-label="Tic Tac Toe game">
+ 
     <div class="top">
       <div>
         <h1>Tic Tac Toe</h1>
-        <div class="status" id="status">Player X's turn</div>
+        <div id="winningMessage" class="status"></div>
       </div>
       <div class="scoreboard">
         <div class="score">X: <span id="scoreX">0</span></div>
@@ -19,25 +20,28 @@
         <div class="score">Ties: <span id="scoreT">0</span></div>
       </div>
     </div>
-
-    <section class="board" id="board" aria-label="Game board">
-      <button class="cell" data-index="0" aria-label="Cell 1"></button>
-      <button class="cell" data-index="1" aria-label="Cell 2"></button>
-      <button class="cell" data-index="2" aria-label="Cell 3"></button>
-      <button class="cell" data-index="3" aria-label="Cell 4"></button>
-      <button class="cell" data-index="4" aria-label="Cell 5"></button>
-      <button class="cell" data-index="5" aria-label="Cell 6"></button>
-      <button class="cell" data-index="6" aria-label="Cell 7"></button>
-      <button class="cell" data-index="7" aria-label="Cell 8"></button>
-      <button class="cell" data-index="8" aria-label="Cell 9"></button>
+ 
+    <section class="board" aria-label="Game board">
+      <button class="cell" data-index="0"></button>
+      <button class="cell" data-index="1"></button>
+      <button class="cell" data-index="2"></button>
+      <button class="cell" data-index="3"></button>
+      <button class="cell" data-index="4"></button>
+      <button class="cell" data-index="5"></button>
+      <button class="cell" data-index="6"></button>
+      <button class="cell" data-index="7"></button>
+      <button class="cell" data-index="8"></button>
     </section>
 
+    
     <div class="controls">
       <button id="resetRound">Reset Round</button>
       <button id="resetAll" class="primary">Reset All</button>
     </div>
 
-    <footer>Click a cell to place X or O. First player is X. Two-player local game.</footer>
+     
   </main>
+ 
+  <script src="app.js"></script>
 </body>
 </html>
