@@ -1,0 +1,95 @@
+:root {
+  --bg1: #0f2027;
+  --bg2: #203a43;
+  --bg3: #2c5364;
+  --card: rgba(255,255,255,0.08);
+  --accent: #ff6ec7;
+  --muted: #cbd5e1;
+}
+
+* { box-sizing: border-box; margin: 0; padding: 0; }
+body {
+  font-family: 'Segoe UI', sans-serif;
+  background: linear-gradient(135deg, var(--bg1), var(--bg2), var(--bg3));
+  color: white;
+  line-height: 1.6;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
+/* Make page scrollable */
+.container {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+  padding: 40px 20px;
+  justify-content: center;
+  align-items: flex-start;
+  flex: 1;
+}
+
+.hero-card {
+  background: var(--card);
+  backdrop-filter: blur(10px);
+  border-radius: 16px;
+  padding: 20px;
+  flex: 1 1 350px;
+  max-width: 500px;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.4);
+  animation: fadeUp 0.7s ease;
+}
+
+.title {
+  font-size: 2rem;
+  font-weight: bold;
+  color: var(--accent);
+  margin-bottom: 8px;
+}
+
+.lead { font-size: 15px; color: var(--muted); margin-bottom: 16px; }
+.row { display: flex; gap: 10px; margin-bottom: 12px; }
+label { font-size: 13px; color: var(--muted); display:block; margin-bottom: 4px; }
+input, select {
+  width: 100%; padding: 8px; border-radius: 8px; border: none; outline: none;
+}
+.btn {
+  background: var(--accent); border: none; padding: 8px 16px; border-radius: 8px;
+  cursor: pointer; color: white; font-weight: bold;
+}
+.btn.ghost { background: transparent; border: 1px solid var(--accent); }
+
+.zodiac-card { display:flex; gap:12px; margin-bottom:12px; }
+.z-icon { font-size: 30px; }
+.z-title { font-weight: bold; color: var(--accent); }
+.chip {
+  background: rgba(255,255,255,0.1);
+  border-radius: 16px; padding: 6px 12px; font-size: 13px;
+  display: inline-block;
+}
+
+/* Footer */
+.footer {
+  text-align: center;
+  padding: 20px;
+  background: rgba(0,0,0,0.3);
+  font-size: 14px;
+  margin-top: auto;
+}
+.footer a { color: var(--accent); text-decoration: none; margin: 0 6px; }
+
+/* Orbs */
+.orb {
+  position: fixed;
+  border-radius: 50%;
+  filter: blur(80px);
+  opacity: 0.6;
+  z-index: -1;
+}
+.o1 { width: 200px; height: 200px; background: #ff6ec7; top: 10%; left: 10%; }
+.o2 { width: 300px; height: 300px; background: #6ec7ff; bottom: 10%; right: 10%; }
+
+@keyframes fadeUp {
+  from { opacity: 0; transform: translateY(20px); }
+  to { opacity: 1; transform: translateY(0); }
+}

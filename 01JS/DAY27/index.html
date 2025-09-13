@@ -1,0 +1,114 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>AstroSight — Personal Astrology</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <!-- Floating Orbs -->
+  <div class="orb o1"></div>
+  <div class="orb o2"></div>
+
+  <div class="container">
+    <!-- Form Section -->
+    <section class="hero-card card-anim" aria-labelledby="title">
+      <h1 id="title" class="title">AstroSight</h1>
+      <p class="lead">Enter your details below and discover your sun sign, personality snapshot and a friendly daily tip crafted especially for you.</p>
+
+      <form id="astroForm" onsubmit="return false;" autocomplete="off">
+        <div class="row">
+          <div style="flex:1">
+            <label for="first">First name</label>
+            <input id="first" type="text" placeholder="e.g. Rahul" required />
+          </div>
+          <div style="flex:1">
+            <label for="last">Surname</label>
+            <input id="last" type="text" placeholder="e.g. Sharma" />
+          </div>
+        </div>
+
+        <div class="row">
+          <div style="width:36%">
+            <label for="date">Date</label>
+            <input id="date" type="number" min="1" max="31" placeholder="DD" required />
+          </div>
+          <div style="width:36%">
+            <label for="month">Month</label>
+            <select id="month" required>
+              <option value="">Select</option>
+              <option value="1">January</option>
+              <option value="2">February</option>
+              <option value="3">March</option>
+              <option value="4">April</option>
+              <option value="5">May</option>
+              <option value="6">June</option>
+              <option value="7">July</option>
+              <option value="8">August</option>
+              <option value="9">September</option>
+              <option value="10">October</option>
+              <option value="11">November</option>
+              <option value="12">December</option>
+            </select>
+          </div>
+          <div style="flex:1">
+            <label for="year">Year</label>
+            <input id="year" type="number" min="1900" max="2099" placeholder="YYYY" required />
+          </div>
+        </div>
+
+        <div style="display:flex; gap:10px; margin-top:6px">
+          <button class="btn" id="readBtn">Reveal my sign</button>
+          <button class="btn ghost" id="clearBtn" type="button">Clear</button>
+        </div>
+
+        <div style="margin-top:12px; color:var(--muted); font-size:13px">
+          We only use your date of birth to show your Sun-sign and a short friendly write-up — no data is stored.
+        </div>
+      </form>
+    </section>
+
+    <!-- Output Section -->
+    <aside class="hero-card card-anim">
+      <div class="preview" id="preview">
+        <div class="zodiac-card" id="zodiacPlaceholder">
+          <div class="z-icon" aria-hidden>✨</div>
+          <div class="z-info">
+            <p class="z-title">Welcome to AstroSight</p>
+            <p class="z-sub">Fill the form and click <strong>Reveal my sign</strong> to get your personalised snapshot.</p>
+            <p class="z-desc">You will see your zodiac (sun) sign, a short personality summary and a daily tip designed to be positive and useful.</p>
+          </div>
+        </div>
+
+        <div class="extras" style="margin-top:12px">
+          <div class="chip" id="chip-sign">Sign: —</div>
+          <div class="chip" id="chip-element">Element: —</div>
+          <div class="chip" id="chip-quality">Quality: —</div>
+        </div>
+
+        <div style="width:100%; margin-top:12px">
+          <div style="display:flex; gap:8px; align-items:center; justify-content:space-between">
+            <div style="color:var(--muted); font-size:13px">Lucky numbers & quick tip</div>
+            <div style="font-size:13px; color:var(--muted)">Have fun ✨</div>
+          </div>
+          <div id="detailArea" style="margin-top:8px; color:#dbe9ff"></div>
+        </div>
+      </div>
+
+      <div style="margin-top:14px; display:flex; gap:8px; justify-content:space-between; align-items:center">
+        <div style="font-size:13px; color:var(--muted)">Built with ❤️</div>
+        <button class="btn ghost" id="shareBtn">Copy Snapshot</button>
+      </div>
+    </aside>
+  </div>
+
+  <!-- Footer -->
+  <footer class="footer">
+    <p>© 2025 AstroSight | Designed with ✨ by Ayush</p>
+    <p><a href="#">Privacy Policy</a> | <a href="#">Terms</a> | <a href="#">Contact</a></p>
+  </footer>
+
+<script src="first.js"></script>
+</body>
+</html>
