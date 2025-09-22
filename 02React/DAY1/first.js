@@ -42,7 +42,6 @@ const React = {
     }
 }
 
-
 const ReactDOM = {
     render: function(element,root){
         root.append(element);
