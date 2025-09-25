@@ -1,0 +1,24 @@
+{
+  "name": "reactbasic",
+  "version": "1.0.0",
+  "description": "\"Learning React\"",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ayushkatiyar31/Nexus.git"
+  },
+  "author": "Ayush Katiyar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ayushkatiyar31/Nexus/issues"
+  },
+  "homepage": "https://github.com/ayushkatiyar31/Nexus#readme",
+  "dependencies": {
+    "parcel": "^2.16.0",
+    "react": "^19.1.1",
+    "react-dom": "^19.1.1"
+  }
+}
