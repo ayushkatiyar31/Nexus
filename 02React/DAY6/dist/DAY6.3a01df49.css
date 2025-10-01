@@ -1,0 +1,28 @@
+body {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+#root {
+  background-color: #000;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  display: flex;
+}
+
+.first {
+  text-align: center;
+  background-color: #fff;
+  width: 400px;
+  height: 200px;
+}
+
+button {
+  background-color: orange;
+  height: 80px;
+  margin-right: 10px;
+  font-size: 20px;
+}
+/*# sourceMappingURL=DAY6.3a01df49.css.map */
