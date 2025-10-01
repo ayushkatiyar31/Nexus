@@ -1,24 +1,4 @@
-3613
-85C:\Users\AYUSH KATIYAR\OneDrive\Desktop\Nexus\02React\DAY6\node_modules\color-convert134038174351156399 1
-89C:\Users\AYUSH KATIYAR\OneDrive\Desktop\Nexus\02React\DAY6\node_modules\react-dom\LICENSE134038172965510069 0
-123C:\Users\AYUSH KATIYAR\OneDrive\Desktop\Nexus\02React\DAY6\node_modules\@parcel\source-map\parcel_sourcemap_node\src\lib.rs134038174355086250 0
-115C:\Users\AYUSH KATIYAR\OneDrive\Desktop\Nexus\02React\DAY6\node_modules\caniuse-lite\data\features\css-scrollbar.js134038174357216304 0
-106C:\Users\AYUSH KATIYAR\OneDrive\Desktop\Nexus\02React\DAY6\node_modules\@parcel\types-internal\src\Glob.js134038174351423311 0
-92C:\Users\AYUSH KATIYAR\OneDrive\Desktop\Nexus\02React\DAY6\node_modules\tslib\tslib.es6.html134038174349374529 0
-97C:\Users\AYUSH KATIYAR\OneDrive\Desktop\Nexus\02React\DAY6\node_modules\@parcel\error-overlay\lib134038174353508710 1
-69C:\Users\AYUSH KATIYAR\OneDrive\Desktop\Nexus\02React\DAY6\index.html134038180491952436 0
-129C:\Users\AYUSH KATIYAR\OneDrive\Desktop\Nexus\02React\DAY6\node_modules\@parcel\runtime-js\src\helpers\browser\import-polyfill.js134038174352557062 0
-109C:\Users\AYUSH KATIYAR\OneDrive\Desktop\Nexus\02React\DAY6\node_modules\@parcel\transformer-babel\src\flow.js134038174352124961 0
-71C:\Users\AYUSH KATIYAR\OneDrive\Desktop\Nexus\02React\DAY6\node_modules134038174370350151 1
-104C:\Users\AYUSH KATIYAR\OneDrive\Desktop\Nexus\02React\DAY6\node_modules\@parcel\packager-js\lib\utils.js134038174352648381 0
-99C:\Users\AYUSH KATIYAR\OneDrive\Desktop\Nexus\02React\DAY6\node_modules\@parcel\workers\lib\threads134038174353705102 1
-81C:\Users\AYUSH KATIYAR\OneDrive\Desktop\Nexus\02React\DAY6\node_modules\term-size134038174351670193 1
-100C:\Users\AYUSH KATIYAR\OneDrive\Desktop\Nexus\02React\DAY6\node_modules\@swc\helpers\src\_update.mjs134038174359387681 0
-99C:\Users\AYUSH KATIYAR\OneDrive\Desktop\Nexus\02React\DAY6\node_modules\dotenv-expand\lib\main.d.ts134038174351423311 0
-102C:\Users\AYUSH KATIYAR\OneDrive\Desktop\Nexus\02React\DAY6\node_modules\@parcel\utils\src\ansi-html.js134038174351177814 0
-68C:\Users\AYUSH KATIYAR\OneDrive\Desktop\Nexus\02React\DAY6\style.css134038181858775400 0
-108C:\Users\AYUSH KATIYAR\OneDrive\Desktop\Nexus\02React\DAY6\node_modules\@parcel\package-manager\src\index.js134038174351177814 0
-76C:\Users\AYUSH KATIYAR\OneDrive\Desktop\Nexus\02React\DAY6\package-lock.json134038174371399823 0
+3619
 104C:\Users\AYUSH KATIYAR\OneDrive\Desktop\Nexus\02React\DAY6\node_modules\lmdb\dependencies\lmdb\libraries134038174350589584 1
 71C:\Users\AYUSH KATIYAR\OneDrive\Desktop\Nexus\02React\DAY6\package.json134038181537543808 0
 99C:\Users\AYUSH KATIYAR\OneDrive\Desktop\Nexus\02React\DAY6\node_modules\@parcel\events\src\types.js134038174351787995 0
@@ -27,6 +7,29 @@
 108C:\Users\AYUSH KATIYAR\OneDrive\Desktop\Nexus\02React\DAY6\node_modules\utility-types\dist\mapped-types.d.ts134038174352607432 0
 122C:\Users\AYUSH KATIYAR\OneDrive\Desktop\Nexus\02React\DAY6\node_modules\caniuse-lite\data\features\prefers-color-scheme.js134038174361809330 0
 100C:\Users\AYUSH KATIYAR\OneDrive\Desktop\Nexus\02React\DAY6\node_modules\type-fest\source\except.d.ts134038174352273900 0
+63C:\Users\AYUSH KATIYAR\OneDrive\Desktop\Nexus\02React\DAY6\dist134038196961962950 1
+118C:\Users\AYUSH KATIYAR\OneDrive\Desktop\Nexus\02React\DAY6\node_modules\caniuse-lite\data\features\css-color-adjust.js134038174355986504 0
+98C:\Users\AYUSH KATIYAR\OneDrive\Desktop\Nexus\02React\DAY6\node_modules\utility-types\package.json134038174351202215 0
+85C:\Users\AYUSH KATIYAR\OneDrive\Desktop\Nexus\02React\DAY6\node_modules\color-convert134038174351156399 1
+89C:\Users\AYUSH KATIYAR\OneDrive\Desktop\Nexus\02React\DAY6\node_modules\react-dom\LICENSE134038172965510069 0
+123C:\Users\AYUSH KATIYAR\OneDrive\Desktop\Nexus\02React\DAY6\node_modules\@parcel\source-map\parcel_sourcemap_node\src\lib.rs134038174355086250 0
+115C:\Users\AYUSH KATIYAR\OneDrive\Desktop\Nexus\02React\DAY6\node_modules\caniuse-lite\data\features\css-scrollbar.js134038174357216304 0
+106C:\Users\AYUSH KATIYAR\OneDrive\Desktop\Nexus\02React\DAY6\node_modules\@parcel\types-internal\src\Glob.js134038174351423311 0
+92C:\Users\AYUSH KATIYAR\OneDrive\Desktop\Nexus\02React\DAY6\node_modules\tslib\tslib.es6.html134038174349374529 0
+97C:\Users\AYUSH KATIYAR\OneDrive\Desktop\Nexus\02React\DAY6\node_modules\@parcel\error-overlay\lib134038174353508710 1
+69C:\Users\AYUSH KATIYAR\OneDrive\Desktop\Nexus\02React\DAY6\index.html134038196954373525 0
+104C:\Users\AYUSH KATIYAR\OneDrive\Desktop\Nexus\02React\DAY6\node_modules\@parcel\packager-js\lib\utils.js134038174352648381 0
+99C:\Users\AYUSH KATIYAR\OneDrive\Desktop\Nexus\02React\DAY6\node_modules\@parcel\workers\lib\threads134038174353705102 1
+81C:\Users\AYUSH KATIYAR\OneDrive\Desktop\Nexus\02React\DAY6\node_modules\term-size134038174351670193 1
+129C:\Users\AYUSH KATIYAR\OneDrive\Desktop\Nexus\02React\DAY6\node_modules\@parcel\runtime-js\src\helpers\browser\import-polyfill.js134038174352557062 0
+109C:\Users\AYUSH KATIYAR\OneDrive\Desktop\Nexus\02React\DAY6\node_modules\@parcel\transformer-babel\src\flow.js134038174352124961 0
+71C:\Users\AYUSH KATIYAR\OneDrive\Desktop\Nexus\02React\DAY6\node_modules134038174370350151 1
+100C:\Users\AYUSH KATIYAR\OneDrive\Desktop\Nexus\02React\DAY6\node_modules\@swc\helpers\src\_update.mjs134038174359387681 0
+99C:\Users\AYUSH KATIYAR\OneDrive\Desktop\Nexus\02React\DAY6\node_modules\dotenv-expand\lib\main.d.ts134038174351423311 0
+102C:\Users\AYUSH KATIYAR\OneDrive\Desktop\Nexus\02React\DAY6\node_modules\@parcel\utils\src\ansi-html.js134038174351177814 0
+68C:\Users\AYUSH KATIYAR\OneDrive\Desktop\Nexus\02React\DAY6\style.css134038181858775400 0
+108C:\Users\AYUSH KATIYAR\OneDrive\Desktop\Nexus\02React\DAY6\node_modules\@parcel\package-manager\src\index.js134038174351177814 0
+76C:\Users\AYUSH KATIYAR\OneDrive\Desktop\Nexus\02React\DAY6\package-lock.json134038174371399823 0
 89C:\Users\AYUSH KATIYAR\OneDrive\Desktop\Nexus\02React\DAY6\node_modules\@parcel\graph\lib134038174352798695 1
 93C:\Users\AYUSH KATIYAR\OneDrive\Desktop\Nexus\02React\DAY6\node_modules\msgpackr\iterators.js134038174352449094 0
 127C:\Users\AYUSH KATIYAR\OneDrive\Desktop\Nexus\02React\DAY6\node_modules\@parcel\package-manager\src\getCurrentPackageManager.js134038174349936258 0
@@ -37,7 +40,7 @@
 92C:\Users\AYUSH KATIYAR\OneDrive\Desktop\Nexus\02React\DAY6\node_modules\lmdb\dependencies\v8134038174355654758 1
 115C:\Users\AYUSH KATIYAR\OneDrive\Desktop\Nexus\02React\DAY6\node_modules\type-fest\source\union-to-intersection.d.ts134038174353745012 0
 103C:\Users\AYUSH KATIYAR\OneDrive\Desktop\Nexus\02React\DAY6\node_modules\@parcel\watcher\src\Debounce.cc134038174351167817 0
-69C:\Users\AYUSH KATIYAR\OneDrive\Desktop\Nexus\02React\DAY6\script.jsx134038180603962215 0
+69C:\Users\AYUSH KATIYAR\OneDrive\Desktop\Nexus\02React\DAY6\script.jsx134038195968418943 0
 88C:\Users\AYUSH KATIYAR\OneDrive\Desktop\Nexus\02React\DAY6\node_modules\@swc\helpers\cjs134038174355185918 1
 85C:\Users\AYUSH KATIYAR\OneDrive\Desktop\Nexus\02React\DAY6\node_modules\@lezer\common134038174351513006 1
 85C:\Users\AYUSH KATIYAR\OneDrive\Desktop\Nexus\02React\DAY6\node_modules\dotenv-expand134038174351532944 1
@@ -76,8 +79,8 @@
 82C:\Users\AYUSH KATIYAR\OneDrive\Desktop\Nexus\02React\DAY6\node_modules\is-extglob134038174350331628 1
 107C:\Users\AYUSH KATIYAR\OneDrive\Desktop\Nexus\02React\DAY6\node_modules\caniuse-lite\data\features\xhtml.js134038174364625878 0
 98C:\Users\AYUSH KATIYAR\OneDrive\Desktop\Nexus\02React\DAY6\node_modules\@swc\helpers\_\_instanceof134038174357667461 1
-85C:\Users\AYUSH KATIYAR\OneDrive\Desktop\Nexus\02React\DAY6\node_modules\msgpackr\dist134038174354235716 1
 78C:\Users\AYUSH KATIYAR\OneDrive\Desktop\Nexus\02React\DAY6\node_modules\@lezer134038174340601025 1
+85C:\Users\AYUSH KATIYAR\OneDrive\Desktop\Nexus\02React\DAY6\node_modules\msgpackr\dist134038174354235716 1
 108C:\Users\AYUSH KATIYAR\OneDrive\Desktop\Nexus\02React\DAY6\node_modules\@parcel\transformer-raw\package.json134038174350589584 0
 77C:\Users\AYUSH KATIYAR\OneDrive\Desktop\Nexus\02React\DAY6\node_modules\@lmdb134038174370350151 1
 77C:\Users\AYUSH KATIYAR\OneDrive\Desktop\Nexus\02React\DAY6\node_modules\json5134038174352223829 1
@@ -368,7 +371,6 @@
 93C:\Users\AYUSH KATIYAR\OneDrive\Desktop\Nexus\02React\DAY6\node_modules\utility-types\LICENSE134038174349384467 0
 117C:\Users\AYUSH KATIYAR\OneDrive\Desktop\Nexus\02React\DAY6\node_modules\caniuse-lite\data\features\canvas-blending.js134038174355136126 0
 91C:\Users\AYUSH KATIYAR\OneDrive\Desktop\Nexus\02React\DAY6\node_modules\picomatch\README.md134038174351847833 0
-98C:\Users\AYUSH KATIYAR\OneDrive\Desktop\Nexus\02React\DAY6\node_modules\utility-types\package.json134038174351202215 0
 110C:\Users\AYUSH KATIYAR\OneDrive\Desktop\Nexus\02React\DAY6\node_modules\caniuse-lite\data\features\temporal.js134038174363150662 0
 90C:\Users\AYUSH KATIYAR\OneDrive\Desktop\Nexus\02React\DAY6\node_modules\@swc\core\index.js134038174351433279 0
 92C:\Users\AYUSH KATIYAR\OneDrive\Desktop\Nexus\02React\DAY6\node_modules\dotenv\lib\main.d.ts134038174352076677 0
@@ -659,6 +661,7 @@
 94C:\Users\AYUSH KATIYAR\OneDrive\Desktop\Nexus\02React\DAY6\node_modules\supports-color\license134038174349354532 0
 93C:\Users\AYUSH KATIYAR\OneDrive\Desktop\Nexus\02React\DAY6\node_modules\detect-libc\README.md134038174350131354 0
 90C:\Users\AYUSH KATIYAR\OneDrive\Desktop\Nexus\02React\DAY6\node_modules\@swc\types\LICENSE134038174349374529 0
+84C:\Users\AYUSH KATIYAR\OneDrive\Desktop\Nexus\02React\DAY6\dist\DAY6.36110571.js.map134038196961943023 0
 90C:\Users\AYUSH KATIYAR\OneDrive\Desktop\Nexus\02React\DAY6\node_modules\react\package.json134038172965994895 0
 82C:\Users\AYUSH KATIYAR\OneDrive\Desktop\Nexus\02React\DAY6\node_modules\semver\bin134038174353785321 1
 88C:\Users\AYUSH KATIYAR\OneDrive\Desktop\Nexus\02React\DAY6\node_modules\semver\functions134038174353977930 1
@@ -1436,8 +1439,6 @@
 103C:\Users\AYUSH KATIYAR\OneDrive\Desktop\Nexus\02React\DAY6\node_modules\caniuse-lite\data\regions\LA.js134038174360025721 0
 107C:\Users\AYUSH KATIYAR\OneDrive\Desktop\Nexus\02React\DAY6\node_modules\lmdb\dependencies\lz4\lib\lz4file.c134038174353611851 0
 107C:\Users\AYUSH KATIYAR\OneDrive\Desktop\Nexus\02React\DAY6\node_modules\lmdb\dependencies\lz4\lib\lz4file.h134038174355495286 0
-120C:\Users\AYUSH KATIYAR\OneDrive\Desktop\Nexus\02React\DAY6\node_modules\@parcel\package-manager\test\fixtures\packages\a134038174353755387 1
-103C:\Users\AYUSH KATIYAR\OneDrive\Desktop\Nexus\02React\DAY6\node_modules\caniuse-lite\data\regions\IM.js134038174359387681 0
 108C:\Users\AYUSH KATIYAR\OneDrive\Desktop\Nexus\02React\DAY6\node_modules\lmdb\dependencies\lz4\lib\lz4frame.c134038174353684693 0
 104C:\Users\AYUSH KATIYAR\OneDrive\Desktop\Nexus\02React\DAY6\node_modules\@parcel\core\src\public\Asset.js134038174353150908 0
 100C:\Users\AYUSH KATIYAR\OneDrive\Desktop\Nexus\02React\DAY6\node_modules\@parcel\logger\src\Logger.js134038174350331628 0
@@ -1841,6 +1842,8 @@
 102C:\Users\AYUSH KATIYAR\OneDrive\Desktop\Nexus\02React\DAY6\node_modules\@parcel\core\lib\Dependency.js134038174354416802 0
 103C:\Users\AYUSH KATIYAR\OneDrive\Desktop\Nexus\02React\DAY6\node_modules\caniuse-lite\data\regions\GW.js134038174359103723 0
 103C:\Users\AYUSH KATIYAR\OneDrive\Desktop\Nexus\02React\DAY6\node_modules\caniuse-lite\data\regions\HU.js134038174359294764 0
+120C:\Users\AYUSH KATIYAR\OneDrive\Desktop\Nexus\02React\DAY6\node_modules\@parcel\package-manager\test\fixtures\packages\a134038174353755387 1
+103C:\Users\AYUSH KATIYAR\OneDrive\Desktop\Nexus\02React\DAY6\node_modules\caniuse-lite\data\regions\IM.js134038174359387681 0
 103C:\Users\AYUSH KATIYAR\OneDrive\Desktop\Nexus\02React\DAY6\node_modules\caniuse-lite\data\regions\IN.js134038174359447471 0
 105C:\Users\AYUSH KATIYAR\OneDrive\Desktop\Nexus\02React\DAY6\node_modules\@parcel\watcher-win32-x64\LICENSE134038174349384467 0
 103C:\Users\AYUSH KATIYAR\OneDrive\Desktop\Nexus\02React\DAY6\node_modules\caniuse-lite\data\regions\IQ.js134038174359730977 0
@@ -2088,7 +2091,6 @@
 105C:\Users\AYUSH KATIYAR\OneDrive\Desktop\Nexus\02React\DAY6\node_modules\@swc\helpers\src\_await_value.mjs134038174358561282 0
 115C:\Users\AYUSH KATIYAR\OneDrive\Desktop\Nexus\02React\DAY6\node_modules\caniuse-lite\data\features\css-clip-path.js134038174355973819 0
 115C:\Users\AYUSH KATIYAR\OneDrive\Desktop\Nexus\02React\DAY6\node_modules\@swc\helpers\_\_inherits_loose\package.json134038174357617587 0
-118C:\Users\AYUSH KATIYAR\OneDrive\Desktop\Nexus\02React\DAY6\node_modules\caniuse-lite\data\features\css-color-adjust.js134038174355986504 0
 91C:\Users\AYUSH KATIYAR\OneDrive\Desktop\Nexus\02React\DAY6\node_modules\@parcel\packager-js134038174352938267 1
 120C:\Users\AYUSH KATIYAR\OneDrive\Desktop\Nexus\02React\DAY6\node_modules\caniuse-lite\data\features\css-color-function.js134038174356008006 0
 127C:\Users\AYUSH KATIYAR\OneDrive\Desktop\Nexus\02React\DAY6\node_modules\caniuse-lite\data\features\css-container-query-units.js134038174356068182 0
@@ -2228,8 +2230,8 @@
 121C:\Users\AYUSH KATIYAR\OneDrive\Desktop\Nexus\02React\DAY6\node_modules\@parcel\error-overlay\src\utils\getStackFrames.js134038174351867766 0
 105C:\Users\AYUSH KATIYAR\OneDrive\Desktop\Nexus\02React\DAY6\node_modules\caniuse-lite\data\features\eme.js134038174358232551 0
 105C:\Users\AYUSH KATIYAR\OneDrive\Desktop\Nexus\02React\DAY6\node_modules\caniuse-lite\data\features\eot.js134038174358242511 0
-108C:\Users\AYUSH KATIYAR\OneDrive\Desktop\Nexus\02React\DAY6\node_modules\@swc\helpers\_\_type_of\package.json134038174358288260 0
 129C:\Users\AYUSH KATIYAR\OneDrive\Desktop\Nexus\02React\DAY6\node_modules\@swc\helpers\src\_class_static_private_field_spec_get.mjs134038174358786879 0
+108C:\Users\AYUSH KATIYAR\OneDrive\Desktop\Nexus\02React\DAY6\node_modules\@swc\helpers\_\_type_of\package.json134038174358288260 0
 102C:\Users\AYUSH KATIYAR\OneDrive\Desktop\Nexus\02React\DAY6\node_modules\@lmdb\lmdb-win32-x64\README.md134038174350005616 0
 111C:\Users\AYUSH KATIYAR\OneDrive\Desktop\Nexus\02React\DAY6\node_modules\caniuse-lite\data\features\es6-class.js134038174358308252 0
 123C:\Users\AYUSH KATIYAR\OneDrive\Desktop\Nexus\02React\DAY6\node_modules\caniuse-lite\data\features\extended-system-fonts.js134038174358435524 0
@@ -2879,6 +2881,7 @@
 97C:\Users\AYUSH KATIYAR\OneDrive\Desktop\Nexus\02React\DAY6\node_modules\@swc\counter\package.json134038174350400652 0
 115C:\Users\AYUSH KATIYAR\OneDrive\Desktop\Nexus\02React\DAY6\node_modules\@parcel\transformer-js\lib\JSTransformer.js134038174350737155 0
 94C:\Users\AYUSH KATIYAR\OneDrive\Desktop\Nexus\02React\DAY6\node_modules\@swc\counter\README.md134038174350106600 0
+85C:\Users\AYUSH KATIYAR\OneDrive\Desktop\Nexus\02React\DAY6\dist\DAY6.3a01df49.css.map134038196960720353 0
 109C:\Users\AYUSH KATIYAR\OneDrive\Desktop\Nexus\02React\DAY6\node_modules\@swc\core-win32-x64-msvc\package.json134038174349398897 0
 106C:\Users\AYUSH KATIYAR\OneDrive\Desktop\Nexus\02React\DAY6\node_modules\@swc\core-win32-x64-msvc\README.md134038174349760981 0
 120C:\Users\AYUSH KATIYAR\OneDrive\Desktop\Nexus\02React\DAY6\node_modules\@swc\core-win32-x64-msvc\swc.win32-x64-msvc.node134038174358093450 0
@@ -3111,6 +3114,7 @@
 114C:\Users\AYUSH KATIYAR\OneDrive\Desktop\Nexus\02React\DAY6\node_modules\@parcel\transformer-react-refresh-wrap\lib134038174350856661 1
 104C:\Users\AYUSH KATIYAR\OneDrive\Desktop\Nexus\02React\DAY6\node_modules\@parcel\events\lib\Disposable.js134038174349936258 0
 118C:\Users\AYUSH KATIYAR\OneDrive\Desktop\Nexus\02React\DAY6\node_modules\@parcel\transformer-react-refresh-wrap\LICENSE134038174349439934 0
+74C:\Users\AYUSH KATIYAR\OneDrive\Desktop\Nexus\02React\DAY6\dist\index.html134038196961144913 0
 123C:\Users\AYUSH KATIYAR\OneDrive\Desktop\Nexus\02React\DAY6\node_modules\@parcel\transformer-react-refresh-wrap\package.json134038174351542931 0
 133C:\Users\AYUSH KATIYAR\OneDrive\Desktop\Nexus\02React\DAY6\node_modules\@parcel\transformer-react-refresh-wrap\src\helpers\helpers.js134038174350543066 0
 98C:\Users\AYUSH KATIYAR\OneDrive\Desktop\Nexus\02React\DAY6\node_modules\@parcel\graph\package.json134038174353070136 0
@@ -3289,6 +3293,7 @@
 97C:\Users\AYUSH KATIYAR\OneDrive\Desktop\Nexus\02React\DAY6\node_modules\@parcel\packager-wasm\lib134038174350796952 1
 106C:\Users\AYUSH KATIYAR\OneDrive\Desktop\Nexus\02React\DAY6\node_modules\@parcel\packager-wasm\package.json134038174351288856 0
 97C:\Users\AYUSH KATIYAR\OneDrive\Desktop\Nexus\02React\DAY6\node_modules\@parcel\packager-wasm\src134038174351006129 1
+80C:\Users\AYUSH KATIYAR\OneDrive\Desktop\Nexus\02React\DAY6\dist\DAY6.36110571.js134038196961833945 0
 97C:\Users\AYUSH KATIYAR\OneDrive\Desktop\Nexus\02React\DAY6\node_modules\@lezer\lr\dist\index.d.ts134038174351901510 0
 115C:\Users\AYUSH KATIYAR\OneDrive\Desktop\Nexus\02React\DAY6\node_modules\@parcel\packager-wasm\src\wasm-sourcemap.js134038174350611427 0
 120C:\Users\AYUSH KATIYAR\OneDrive\Desktop\Nexus\02React\DAY6\node_modules\@parcel\packager-wasm\src\wasm-sourcemap.js.flow134038174349894758 0
@@ -3612,3 +3617,4 @@
 83C:\Users\AYUSH KATIYAR\OneDrive\Desktop\Nexus\02React\DAY6\node_modules\.bin\semver134038174365127816 0
 87C:\Users\AYUSH KATIYAR\OneDrive\Desktop\Nexus\02React\DAY6\node_modules\.bin\semver.ps1134038174365117780 0
 99C:\Users\AYUSH KATIYAR\OneDrive\Desktop\Nexus\02React\DAY6\node_modules\.bin\update-browserslist-db134038174365117780 0
+81C:\Users\AYUSH KATIYAR\OneDrive\Desktop\Nexus\02React\DAY6\dist\DAY6.3a01df49.css134038196960640418 0

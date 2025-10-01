@@ -54,3 +54,8 @@ body{
     background-color: lightcoral;
     color: white;
 }
+
+button{
+    height: 50px;
+    background-color: orange;    
+}

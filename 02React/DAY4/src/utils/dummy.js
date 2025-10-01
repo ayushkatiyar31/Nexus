@@ -1,4 +1,4 @@
-const arr = [{cloth:"Tshirt", Offer:"20-40%Off"},{cloth:"Pant", Offer:"30-50%Off"},{cloth:"Skirt", Offer:"10-20%Off"},{cloth:"Kurta", Offer:"30-60%Off"},{cloth:"Patloon", Offer:"11-40%Off"},{cloth:"Shoes", Offer:"40-60%Off"},{cloth:"Shirt", Offer:"10-20%Off"},{cloth:"Bag", Offer:"15-40%Off"}]
+const arr = [{cloth:"Tshirt", Offer:"20-40%Off",price:200},{cloth:"Pant", Offer:"30-50%Off",price:2000},{cloth:"Skirt", Offer:"10-20%Off",price:1100},{cloth:"Kurta", Offer:"30-60%Off",price:1500},{cloth:"Patloon", Offer:"11-40%Off",price:1200},{cloth:"Shoes", Offer:"40-60%Off",price:800},{cloth:"Shirt", Offer:"10-20%Off",price:200},{cloth:"Bag", Offer:"15-40%Off",price:500}]
 
 export function greet(){
     return <h1>Hello Coder Army</h1>
