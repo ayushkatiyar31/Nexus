@@ -15,4 +15,41 @@ body {
   top: 10px;
   left: 60px;
 }
+
+.option {
+  padding-top: 30px;
+}
+
+.but, .pro {
+  background-color: #fff;
+  border: none;
+  height: 30px;
+  margin-right: 10px;
+  font-size: 20px;
+}
+
+.searchbar {
+  width: 400px;
+  height: 30px;
+  position: relative;
+  top: 30px;
+}
+
+.Profile {
+  padding-top: 30px;
+  padding-right: 20px;
+}
+
+.middle {
+  background-color: #f6f6f1;
+  justify-content: center;
+  padding-top: 50px;
+  padding-left: 50px;
+  padding-right: 50px;
+}
+
+.card {
+  color: #fff;
+  background-color: #f08080;
+}
 /*# sourceMappingURL=DAY4.3a01df49.css.map */
