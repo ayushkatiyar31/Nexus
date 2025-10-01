@@ -817,14 +817,7 @@ const arr = [
     }
 ];
 function App() {
-    return(// Header
-    // Body
-    /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
-        style: {
-            display: "flex",
-            gap: "10px",
-            flexWrap: "wrap"
-        },
+    return /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
         children: [
             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
                 className: "heading",
@@ -836,7 +829,7 @@ function App() {
                         width: "80px"
                     }, void 0, false, {
                         fileName: "myntra.js",
-                        lineNumber: 34,
+                        lineNumber: 30,
                         columnNumber: 9
                     }, this),
                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -847,7 +840,7 @@ function App() {
                                 children: "Men"
                             }, void 0, false, {
                                 fileName: "myntra.js",
-                                lineNumber: 36,
+                                lineNumber: 32,
                                 columnNumber: 11
                             }, this),
                             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("button", {
@@ -855,7 +848,7 @@ function App() {
                                 children: "Women"
                             }, void 0, false, {
                                 fileName: "myntra.js",
-                                lineNumber: 37,
+                                lineNumber: 33,
                                 columnNumber: 11
                             }, this),
                             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("button", {
@@ -863,7 +856,7 @@ function App() {
                                 children: "Kids"
                             }, void 0, false, {
                                 fileName: "myntra.js",
-                                lineNumber: 38,
+                                lineNumber: 34,
                                 columnNumber: 11
                             }, this),
                             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("button", {
@@ -871,7 +864,7 @@ function App() {
                                 children: "Home and Living"
                             }, void 0, false, {
                                 fileName: "myntra.js",
-                                lineNumber: 39,
+                                lineNumber: 35,
                                 columnNumber: 11
                             }, this),
                             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("button", {
@@ -879,7 +872,7 @@ function App() {
                                 children: "Beauty"
                             }, void 0, false, {
                                 fileName: "myntra.js",
-                                lineNumber: 40,
+                                lineNumber: 36,
                                 columnNumber: 11
                             }, this),
                             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("button", {
@@ -887,13 +880,13 @@ function App() {
                                 children: "Studio"
                             }, void 0, false, {
                                 fileName: "myntra.js",
-                                lineNumber: 41,
+                                lineNumber: 37,
                                 columnNumber: 11
                             }, this)
                         ]
                     }, void 0, true, {
                         fileName: "myntra.js",
-                        lineNumber: 35,
+                        lineNumber: 31,
                         columnNumber: 9
                     }, this),
                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("input", {
@@ -901,7 +894,7 @@ function App() {
                         placeholder: "Search for products brands and more"
                     }, void 0, false, {
                         fileName: "myntra.js",
-                        lineNumber: 44,
+                        lineNumber: 39,
                         columnNumber: 9
                     }, this),
                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -912,7 +905,7 @@ function App() {
                                 children: "Profiles"
                             }, void 0, false, {
                                 fileName: "myntra.js",
-                                lineNumber: 47,
+                                lineNumber: 41,
                                 columnNumber: 11
                             }, this),
                             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("button", {
@@ -920,7 +913,7 @@ function App() {
                                 children: "Wishlist"
                             }, void 0, false, {
                                 fileName: "myntra.js",
-                                lineNumber: 48,
+                                lineNumber: 42,
                                 columnNumber: 11
                             }, this),
                             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("button", {
@@ -928,43 +921,54 @@ function App() {
                                 children: "Bag"
                             }, void 0, false, {
                                 fileName: "myntra.js",
-                                lineNumber: 49,
+                                lineNumber: 43,
                                 columnNumber: 11
                             }, this)
                         ]
                     }, void 0, true, {
                         fileName: "myntra.js",
-                        lineNumber: 46,
+                        lineNumber: 40,
                         columnNumber: 9
                     }, this)
                 ]
             }, void 0, true, {
                 fileName: "myntra.js",
-                lineNumber: 32,
-                columnNumber: 9
+                lineNumber: 29,
+                columnNumber: 7
             }, this),
-            ")",
-            arr.map((value, index)=>/*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)(Card, {
-                    cloth: value.cloth,
-                    offer: value.Offer
-                }, index, false, {
-                    fileName: "myntra.js",
-                    lineNumber: 54,
-                    columnNumber: 35
-                }, this))
+            /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
+                style: {
+                    display: "flex",
+                    gap: "10px",
+                    flexWrap: "wrap",
+                    marginTop: "20px"
+                },
+                children: arr.map((value, index)=>/*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)(Card, {
+                        cloth: value.cloth,
+                        offer: value.Offer
+                    }, index, false, {
+                        fileName: "myntra.js",
+                        lineNumber: 50,
+                        columnNumber: 11
+                    }, this))
+            }, void 0, false, {
+                fileName: "myntra.js",
+                lineNumber: 48,
+                columnNumber: 7
+            }, this)
         ]
     }, void 0, true, {
         fileName: "myntra.js",
-        lineNumber: 31,
+        lineNumber: 27,
         columnNumber: 5
-    }, this));
+    }, this);
 }
 _c1 = App;
 // [<Card/>,<Card/>,<Card/>,<Card/>,<Card/>,<Card/>]
 const Root = (0, _clientDefault.default).createRoot(document.getElementById('root'));
 Root.render(/*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)(App, {}, void 0, false, {
     fileName: "myntra.js",
-    lineNumber: 68,
+    lineNumber: 64,
     columnNumber: 13
 }, undefined));
 var _c, _c1;
