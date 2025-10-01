@@ -1,0 +1,17 @@
+body{
+    margin: 0px;
+    padding:0px;
+    box-sizing: border-box;
+}
+
+.heading{
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 20px;
+}
+
+.images{
+    position: relative;
+    left: 60px;
+    top:10px;
+}

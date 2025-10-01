@@ -1,0 +1,18 @@
+body {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+.heading {
+  justify-content: space-between;
+  margin-bottom: 20px;
+  display: flex;
+}
+
+.images {
+  position: relative;
+  top: 10px;
+  left: 60px;
+}
+/*# sourceMappingURL=DAY4.3a01df49.css.map */
