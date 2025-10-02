@@ -727,7 +727,7 @@ var _reactDefault = parcelHelpers.interopDefault(_react);
 var _client = require("react-dom/client");
 var _clientDefault = parcelHelpers.interopDefault(_client);
 function Counter() {
-    let [count, setCount] = (0, _react.useState)(2);
+    let [count, setCount] = (0, _react.useState)(0);
     function incrementnumber() {
         setCount(count + 1);
     // console.log("count value is: " , count);
@@ -774,7 +774,7 @@ function Counter() {
 (0, _clientDefault.default).createRoot(document.getElementById('root')).render(/*#__PURE__*/ (0, _reactDefault.default).createElement(Counter, {
     __source: {
         fileName: "script.jsx",
-        lineNumber: 31,
+        lineNumber: 30,
         columnNumber: 61
     },
     __self: undefined

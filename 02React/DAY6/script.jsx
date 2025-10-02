@@ -4,7 +4,7 @@ import ReactDOM from 'react-dom/client'
 
 function Counter(){
 
-    let [count, setCount] = useState(2);
+    let [count, setCount] = useState(0);
 
     function incrementnumber(){
         setCount(count+1);
@@ -26,6 +26,5 @@ function Counter(){
        </div>
     )
 }
-
 
 ReactDOM.createRoot(document.getElementById('root')).render(<Counter/>)
